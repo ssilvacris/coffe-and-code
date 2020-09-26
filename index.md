@@ -1,10 +1,10 @@
-## Coffe and Code
+# Coffe and Code
 
 
 This project aims to evaluate the headlines of the New York newspaper between January and July 2020 and see how the words like COVID and Virus have taken on relevance over these months.
 
 
-### Words Most Mentioned in New York Times in 2020
+## Words Most Mentioned in New York Times in 2020
 
 According to WHO, coronavirus was first reported in Wuhan (China) on December 31, 2020.
 
@@ -17,30 +17,13 @@ To respond to these questions, I have chosen one source and two tools:
 - Source: New York Times newspaper to select the headlines of the articles from January to July.
 - Tools: The Natural Language Toolkit (**NLTK**), a **Python** library for handling natural language processing (**NLP**), and **Tableau**, a visual analytics platform.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Getting the newspaper headlines 
 
-- Bulleted
-- List
+First, I needed to create a database with newspaper headlines. Among some ways to do this, I chose the new york times because of the importance of their articles, their coverage during the pandemic, as new york was among the most affected cities in the world, and also because of its articles search API.
 
-1. Numbered
-2. List
+APIs (application programming interfaces) can be used to programmatically access New York Times data. First of all, it is necessary to create an API key and with it have access to search for files since 1851, a list of best sellers, movie reviews, among others. You can see this site [here](https://developer.nytimes.com)
 
-**Bold** and _Italic_ and `Code` text
+I created my API key and my goal was to get the machetes for the specified period and with that, I created my database that looked like this:
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssilvacris/coffee-and-code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
