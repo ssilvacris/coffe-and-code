@@ -1,5 +1,5 @@
 ## Coffe and Code
-![Image of coffee](/Users/cristianedesouzadasilva/Desktop/PROJETO-NLP)
+
 
 This project aims to evaluate the headlines of the New York newspaper between January and July 2020 and see how the words like COVID and Virus have taken on relevance over these months.
 
