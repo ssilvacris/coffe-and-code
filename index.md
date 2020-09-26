@@ -26,4 +26,4 @@ APIs (application programming interfaces) can be used to programmatically access
 
 I created my API key and my goal was to get the machetes for the specified period and with that, I created my database that looked like this:
 
-
+![Image](https://github.com/ssilvacris/coffee-and-code/blob/master/headline-articles.png)
