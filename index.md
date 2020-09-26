@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
+## Coffe and Code
 
-You can use the [editor on GitHub](https://github.com/ssilvacris/coffee-and-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project aims to evaluate the headlines of the New York newspaper between January and July 2020 and see how the words like COVID and Virus have taken on relevance over these months.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Words Most Mentioned in New York Times in 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+According to WHO, coronavirus was first reported in Wuhan (China) on December 31, 2020.
+
+On March 11, 2020, WHO declared COVID a pandemic. The COVID-19 related timeline can be checked [here](https://www.who.int/news-room/detail/29-06-2020-covidtimeline).
+
+It's possible to imagine the words _Coronavirus_, _virus_ and _pandemic_ have been most cited since January until July 2020. But how many others were relevant in the same period?  How do we can analyze them?
+
+To respond to these questions, I have chosen one source and two tools:
+
+- Source: New York Times newspaper to select the headlines of the articles from January to July.
+- Tools: The Natural Language Toolkit (**NLTK**), a **Python** library for handling natural language processing (**NLP**), and **Tableau**, a visual analytics platform.
 
 ```markdown
 Syntax highlighted code block
