@@ -105,7 +105,7 @@ plt.imshow(wordcloud_jan, interpolation="bilinear")
 plt.axis("off")
 plt.show()
 ```
-![Image of wc_jan](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)|![Image of wc_feb](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png) 
+
 
 January                    |  February                 
 :-------------------------:|:-------------------------:
@@ -124,5 +124,6 @@ May                        |  June
 July                       |   
 :-------------------------:|
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jul.png)  |  
+
 
 ### Getting the frequency distribution of the words. 
