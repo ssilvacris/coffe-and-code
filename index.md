@@ -148,20 +148,20 @@ Freq_dist_nltk.plot(50, cumulative=False)
 
 January                    |  February                 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-feb.png)|
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_feb.png)|
 
 
 March                      |  April 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-apr.png)
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_apr.png)
 
 
 May                        |  June 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jun.png)
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_may.png  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jun.png)
 
 July                       |   
 :-------------------------:|
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jul.png)  |  
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jul.png)  |  
 
 
