@@ -127,3 +127,41 @@ July                       |
 
 
 ### Getting the frequency distribution of the words
+
+```python
+import operator
+freq_dis_jan={}
+for tok in tok_jan:
+    if tok in freq_dis_jan:
+        freq_dis_jan[tok]+= 1
+    else:
+        freq_dis_jan[tok]=1
+        
+# We want to sort this dictionary on values ( freq in this case )
+
+sorted_freq_jan = sorted(freq_dis_jan.items(), key=operator.itemgetter(1), reverse=True)
+print(sorted_freq_jan[:25])
+plt.figure(figsize=(10, 5))
+Freq_dist_nltk=nltk.FreqDist(tok_feb)
+Freq_dist_nltk.plot(50, cumulative=False)
+```
+
+January                    |  February                 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-feb.png)|
+
+
+March                      |  April 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-apr.png)
+
+
+May                        |  June 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jun.png)
+
+July                       |   
+:-------------------------:|
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-jul.png)  |  
+
+
