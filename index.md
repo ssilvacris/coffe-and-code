@@ -107,8 +107,18 @@ plt.show()
 ```
 ![Image of wc_jan](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)|![Image of wc_feb](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png) 
 
-January 2020            |  February Oce2020an
+January                    |  February 
 :-------------------------:|:-------------------------:
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png)
+March                      |  April 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_apr.png)
+May                        |  June 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jun.png)
+
+July                       |   
+:-------------------------:|
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jul.png)  |  
 
 ### Getting the frequency distribution of the words. 
