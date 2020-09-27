@@ -153,12 +153,12 @@ January                    |  February
 
 March                      |  April 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_apr.png)
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq-mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_apr.png)|
 
 
 May                        |  June 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_may.png  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jun.png)
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_may.png  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jun.png)|
 
 July                       |   
 :-------------------------:|
