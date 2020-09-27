@@ -158,7 +158,7 @@ March                      |  April
 
 May                        |  June 
 :-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_may.png  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jun.png)|
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jun.png)|
 
 July                       |   
 :-------------------------:|
