@@ -107,4 +107,8 @@ plt.show()
 ```
 ![Image of wc_jan](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)|![Image of wc_feb](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png) 
 
+January 2020            |  February Oce2020an
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png)
+
 ### Getting the frequency distribution of the words. 
