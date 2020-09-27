@@ -107,13 +107,15 @@ plt.show()
 ```
 ![Image of wc_jan](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)|![Image of wc_feb](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png) 
 
-January                    |  February                 |        March              |
-:-------------------------:|:-------------------------:|:-------------------------:|:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png)|![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_mar.png)
+January                    |  February                 
+:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jan.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_feb.png)|
+
 
 March                      |  April 
 :-------------------------:|:-------------------------:
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_apr.png)
+
 
 May                        |  June 
 :-------------------------:|:-------------------------:
