@@ -126,4 +126,4 @@ July                       |
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jul.png)  |  
 
 
-### Getting the frequency distribution of the words. 
+### Getting the frequency distribution of the words.
