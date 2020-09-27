@@ -1,7 +1,7 @@
 # Words Most Mentioned in New York Times in 2020
 
 
-This project aims to evaluate the headlines of the New York newspaper between January and July 2020 and see how the words like COVID and Virus have taken on relevance over these months.
+This project aims to evaluate the headlines of the New York newspaper between January and July 2020 and see how the words like COVID and Virus have taken on relevance over these months. 
 
 According to WHO, coronavirus was first reported in Wuhan (China) on December 31, 2020.
 
@@ -24,13 +24,15 @@ APIs (application programming interfaces) can be used to programmatically access
 
 I created my API key and my goal was to get the machetes for the specified period and with that, I created my database that looked like this:
 
-![Image](https://github.com/ssilvacris/coffee-and-code/blob/master/headline-articles.png)
+![Image of table]
+(https://github.com/ssilvacris/coffee-and-code/blob/master/headline-articles.png)
 
 The figure above shows just a few lines from the database that runs through July.
 
 
 ## Getting the Most Cited Words
 
+The Natural Language Toolkit (NLTK) is a Python library for handling natural language processing (NLP).
 
 ### Libraries and Dataset
 ```python
@@ -42,3 +44,7 @@ import nltk
 ```
 
 
+```python
+months_df = pd.read_csv('months.csv', parse_dates=True, index_col='date')
+months_df.head()
+```
