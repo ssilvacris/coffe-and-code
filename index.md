@@ -170,7 +170,9 @@ July                       |
 
 ![Video of animated chart](https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.mov)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+ <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.mp4" type="video/mp4">
+  </video>
 </figure>
 
