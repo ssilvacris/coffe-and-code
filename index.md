@@ -162,8 +162,13 @@ May                        |  June                     |   July
 
 
 
-## Tableau
+## Change of relevance of words
+
+Now we can see the number of word quotes changing over the months. 
+
 
 ![Image of tableau](https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.gif)
 
+
+Note that the word Coronavirus saw a large increase in headline quotes in March, when the pandemic was established by the WHO, but has been losing to the word "Trump" in July, as the United States presidential elections approach.
 
