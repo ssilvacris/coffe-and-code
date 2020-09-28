@@ -165,3 +165,13 @@ July                       |
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/freq_jul.png)  | 
 
 
+
+## Tableau
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="/Users/cristianedesouzadasilva/Desktop/PROJETO-NLP/Ranking_words.mov" type="Ranking_words.mov">
+  </video>
+</figure>
+<!-- blank line -->
