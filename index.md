@@ -168,11 +168,6 @@ July                       |
 
 ## Tableau
 
-![Video of animated chart](https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.mov)
+![Image of tableau](https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.gif)
 
- <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.mp4" type="video/mp4">
-  </video>
-</figure>
 
