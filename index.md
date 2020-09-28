@@ -169,3 +169,4 @@ July                       |
 ## Tableau
 
 ![Video of animated chart](https://github.com/ssilvacris/coffee-and-code/blob/master/Ranking_words.mov)
+
