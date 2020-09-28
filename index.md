@@ -117,13 +117,11 @@ March                      |  April
 ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_mar.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_apr.png)
 
 
-May                        |  June 
-:-------------------------:|:-------------------------:
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jun.png)
+May                        |  June                     |   July
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_may.png)  |  ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jun.png)  | ![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jul.png)  | 
 
-July                       |   
-:-------------------------:|
-![](https://github.com/ssilvacris/coffee-and-code/blob/master/wordcloud_jul.png)  |  
+
 
 
 ### Getting the frequency distribution of the words
